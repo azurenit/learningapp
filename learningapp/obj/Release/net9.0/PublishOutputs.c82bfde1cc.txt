@@ -1,0 +1,7 @@
+E:\AzureWorklabs\learningapp\bin\Publish\learningapp.exe
+E:\AzureWorklabs\learningapp\bin\Publish\appsettings.Development.json
+E:\AzureWorklabs\learningapp\bin\Publish\appsettings.json
+E:\AzureWorklabs\learningapp\bin\Publish\learningapp.dll
+E:\AzureWorklabs\learningapp\bin\Publish\learningapp.deps.json
+E:\AzureWorklabs\learningapp\bin\Publish\learningapp.runtimeconfig.json
+E:\AzureWorklabs\learningapp\bin\Publish\learningapp.pdb
